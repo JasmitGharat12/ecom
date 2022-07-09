@@ -1,4 +1,4 @@
-# APH Electronics
+# Jasmit's Electronics
 
 <h2>Full Stack E-Commerce Application with Next.js, Sanity and Stripe</h2>
 <img src="aph_img/aph.png" width="600">
