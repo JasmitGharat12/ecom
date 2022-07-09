@@ -29,7 +29,7 @@ Front end: React.js, back end: Next.js(as a backend endpoint), CMS: Sanity(file 
 <img src="aph_img/aphc.gif" width="600"> 
 <img src="aph_img/aphc1.gif" width="600"> 
 
- [Live Link](https://aph-electronics.vercel.app)
+
 
   
   
