@@ -1,7 +1,7 @@
 # Jasmit's Electronics
 
 <h2>Full Stack E-Commerce Application with Next.js, Sanity and Stripe</h2>
-<img src="aph_img/aph.png" width="600">
+
 <br>
 APH Electronics is a website with animations, user's with administrator rights can add and edit products on the move using sanity a type of cms (content management system). APH Electronics has a cart function and integration with stripe which allows you to make test or <b>real</b> payments. 
 <br>
@@ -17,12 +17,7 @@ Front end: React.js, back end: Next.js(as a backend endpoint), CMS: Sanity(file 
 <li>Stripe is use to manage payments, products, shipping rates and the whole checkout operation.  
 <br>
 <br>
-<img src="aph_img/aph.png" width="600"> 
-<img src="aph_img/aph1.png" width="600"> 
-<img src="aph_img/aph2.png" width="600"> 
-<img src="aph_img/aph3.png" width="600"> 
-<img src="aph_img/aph4.png" width="600"> 
-<img src="aph_img/aph5.png" width="600"> 
+
 
 
   
