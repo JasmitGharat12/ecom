@@ -23,12 +23,6 @@ Front end: React.js, back end: Next.js(as a backend endpoint), CMS: Sanity(file 
 <img src="aph_img/aph3.png" width="600"> 
 <img src="aph_img/aph4.png" width="600"> 
 <img src="aph_img/aph5.png" width="600"> 
-  
- # Gifs
-  
-<img src="aph_img/aphc.gif" width="600"> 
-<img src="aph_img/aphc1.gif" width="600"> 
-
 
 
   
